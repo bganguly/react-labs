@@ -1,14 +1,22 @@
 # React Labs
 
-A collection of focused React projects demonstrating different deployment and architecture patterns.
+A curated set of React implementation references that compare architecture, deployment, and full-stack integration patterns.
 
-This group connects frontend implementation choices (Vite, TypeScript, integration styles) with backend and cloud delivery models.
+This repository acts as a decision guide for building React applications across local full-stack development, serverless backends, and containerized cloud platforms.
+
+It is designed to help you evaluate tradeoffs in developer experience, scalability, release workflows, and operational complexity.
 
 ## Core Idea
 
 Instead of treating all React projects the same, these labs focus on:
 
 > How React apps evolve across local full-stack builds, serverless backends, and container-based cloud deployments.
+
+## Goals
+
+- Provide a single map of React implementation styles used in this workspace.
+- Highlight practical tradeoffs between speed of iteration and production readiness.
+- Make side-by-side comparison easier when choosing a stack for new projects.
 
 ## Architecture
 
