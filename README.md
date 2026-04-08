@@ -1,6 +1,6 @@
 # React Labs
 
-A curated set of React implementation references that compare architecture, deployment, and full-stack integration patterns.
+A focused set of React implementation references that compare architecture, deployment, and full-stack integration patterns.
 
 This repository acts as a decision guide for building React applications across local full-stack development, serverless backends, and containerized cloud platforms.
 
