@@ -33,21 +33,21 @@ flowchart LR
 ## Projects
 
 ### 1. React + Vite + Spring Boot
-**Workspace project:** [react-vite-springboot](https://github.com/bganguly/react-vite-springboot)
+**Repository:** [react-vite-springboot](https://github.com/bganguly/react-vite-springboot)
 
 - Fast local frontend iteration with Vite
 - Spring Boot backend integration
 - End-to-end full-stack workflow
 
 ### 2. React + TypeScript + Serverless AWS
-**Workspace project:** [react-typescript-serverless-aws](https://github.com/bganguly/react-typescript-serverless-aws)
+**Repository:** [react-typescript-serverless-aws](https://github.com/bganguly/react-typescript-serverless-aws)
 
 - React TypeScript frontend
 - Serverless backend deployment model
 - Cloud-oriented architecture
 
 ### 3. React + Spring Boot + AWS Fargate
-**Workspace project:** [react-springboot-aws-fargate](https://github.com/bganguly/react-springboot-aws-fargate)
+**Repository:** [react-springboot-aws-fargate](https://github.com/bganguly/react-springboot-aws-fargate)
 
 - Containerized backend deployment
 - React frontend with AWS delivery path
