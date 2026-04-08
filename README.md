@@ -25,21 +25,21 @@ flowchart LR
 ## Projects
 
 ### 1. React + Vite + Spring Boot
-**Folder:** ../../react-vite-springboot
+**Workspace project:** [react-vite-springboot](../../react-vite-springboot)
 
 - Fast local frontend iteration with Vite
 - Spring Boot backend integration
 - End-to-end full-stack workflow
 
 ### 2. React + TypeScript + Serverless AWS
-**Folder:** ../../react-typescript-serverless-aws
+**Workspace project:** [react-typescript-serverless-aws](../../react-typescript-serverless-aws)
 
 - React TypeScript frontend
 - Serverless backend deployment model
 - Cloud-oriented architecture
 
 ### 3. React + Spring Boot + AWS Fargate
-**Folder:** ../../react-springboot-aws-fargate
+**Workspace project:** [react-springboot-aws-fargate](../../react-springboot-aws-fargate)
 
 - Containerized backend deployment
 - React frontend with AWS delivery path
@@ -61,3 +61,8 @@ Recommended flow:
 React projects often differ more by deployment model and integration strategy than by UI code alone.
 
 This lab helps compare practical full-stack patterns in a single workspace.
+
+## Scope
+
+- This repository is an index and notes hub for React architecture labs.
+- Source code for the listed projects lives in their own project folders.
